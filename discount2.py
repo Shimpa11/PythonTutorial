@@ -3,12 +3,17 @@ code=input("Enter Promo Code:")
 
 
 if amount>200 and  code!="zomato":
-    if code!="zomato":
-        print("code")
-
-    else:
+    code = input("enter correct code:")
+    if amount>200 and code=="zomato":
         amount = amount - 0.4 * amount
         print(" Promo code applied .You got 40& off. Pay:", amount)
+    else:
+        print("enter correct code and try  again")
+
+elif amount>200 and code=="zomato":
+    amount = amount - 0.4 * amount
+    print(" Promo code applied .You got 40& off. Pay:", amount)
+
 
 # elif amount>200 and code=="zomato":
 #     amount = amount - 0.4 * amount
