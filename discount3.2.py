@@ -23,24 +23,27 @@ code=input("Enter Promo Code:")
 #     print(">> Please Pay: \u20b9", amount)
 
 if amount>100:
-        if code=="JUMBO":
-            discount = 0.5 * amount
-            if discount > 150:
-                amount = amount - 150
-            else:
+    if code == "zomato" and amount > 200:
+        amount = amount - 0.4 * amount
+        print("pay:\u20b9", amount)
+        print("try using JUMBO to get 50% off")
+
+    elif code=="JUMBO":
+        discount = 0.5 * amount
+        if discount > 150:
+            amount = amount - 150
+        else:
                 amount = amount - discount
                 print("pay \u20b9", amount)
+                print("got 50%Off")
+    else:
+      print("no match. please pay", amount)
 
-            print("got 50%Off")
-        elif code!="JUMBO":
-             print("no match. please pay",amount)
+                # code!="JUMBO"
 
-        elif code=="zomato" and amount>200:
-            amount = amount - 0.4 * amount
-            print("pay:\u20b9", amount)
-            print("try using JUMBO to get 50% off")
-else:
-        print("pay \u20b9",amount)
+
+# else:
+#         print("pay \u20b9",amount)
 
 
 

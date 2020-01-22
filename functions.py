@@ -10,18 +10,19 @@
 # print(add(a,b))
 
 
-
-
 amount = int(input("Enter the amount:"))
 code=input("Enter Promo Code:")
 
-def myFun(amount, code):
+def discount(amount, code):
     if amount>200 and code=="zomato":
         amount=amount-0.4*amount
-        print("please pay:",amount)
+        print(" 40% OFF.please pay:",amount)
+    elif amount>100 and code=="JUMBO":
+        amount=amount-0.5*amount
+        print("pay after 50%", amount)
     else:
         print("no discounts")
-myFun(amount,code)
+discount(amount,code)
 
 # if amount>100 and code==JUMBO:
 #     discount=amount-0.5*amount
