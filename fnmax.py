@@ -1,9 +1,10 @@
 
-data =[2,5,6,8,55,4506,4000,568,2000]
-
+data =[5,2,6,8,4025,555]
+# maximum = data[0]
 def myMax():
-    for i in range(1,len(data)):
-        maximum = data[0]
+    maximum=data[0]
+    for i in range(0,len(data)):
+
         if data[i]>maximum:
             maximum=data[i]
     return maximum
