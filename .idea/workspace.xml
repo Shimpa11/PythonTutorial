@@ -6,15 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8b97789d-b22d-423d-a2b7-c3fb2e55c542" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/insertionwithrecursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlistImplementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopsrelation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopsrelation2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/candy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyclicRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/cyclicRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fnmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/fnmax.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recursion2.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/session1.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/session9.py" beforeDir="false" afterPath="$PROJECT_DIR$/session9.py" afterDir="false" />
@@ -28,46 +27,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/session7A.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/session9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recursion2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/discount3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/candy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="136">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -75,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="475">
+              <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -84,17 +47,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oops2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oops3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="340">
+              <caret line="37" column="11" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="37" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -109,10 +72,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oops4.py">
+        <entry file="file://$PROJECT_DIR$/oops5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="52" column="14" lean-forward="true" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oopsrelation2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linkedlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linkedlist2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linkedlistImplementation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="98" column="38" lean-forward="true" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -170,12 +169,19 @@
         <option value="$PROJECT_DIR$/recursion2.py" />
         <option value="$PROJECT_DIR$/session9.py" />
         <option value="$PROJECT_DIR$/cyclicRotation.py" />
-        <option value="$PROJECT_DIR$/candy.py" />
         <option value="$PROJECT_DIR$/oops.py" />
         <option value="$PROJECT_DIR$/oops2.py" />
         <option value="$PROJECT_DIR$/oops4.py" />
         <option value="$PROJECT_DIR$/oops3.1.py" />
         <option value="$PROJECT_DIR$/oops3.py" />
+        <option value="$PROJECT_DIR$/candy.py" />
+        <option value="$PROJECT_DIR$/oops5.py" />
+        <option value="$PROJECT_DIR$/oopsrelation.py" />
+        <option value="$PROJECT_DIR$/jjjj.py" />
+        <option value="$PROJECT_DIR$/oopsrelation2.py" />
+        <option value="$PROJECT_DIR$/linkedlist.py" />
+        <option value="$PROJECT_DIR$/linkedlist2.py" />
+        <option value="$PROJECT_DIR$/linkedlistImplementation.py" />
       </list>
     </option>
   </component>
@@ -242,8 +248,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oops3">
-    <configuration name="candy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.linkedlistImplementation">
+    <configuration name="linkedlist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,7 +261,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/candy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedlist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cyclicRotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linkedlist2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,7 +282,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cyclicRotation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedlist2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linkedlistImplementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,7 +303,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedlistImplementation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oops2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oopsrelation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,7 +324,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oopsrelation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,7 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oops3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oopsrelation2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,7 +345,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oopsrelation2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.oops3" />
-        <item itemvalue="Python.oops2" />
-        <item itemvalue="Python.oops" />
-        <item itemvalue="Python.candy" />
-        <item itemvalue="Python.cyclicRotation" />
+        <item itemvalue="Python.linkedlistImplementation" />
+        <item itemvalue="Python.linkedlist2" />
+        <item itemvalue="Python.linkedlist" />
+        <item itemvalue="Python.oopsrelation2" />
+        <item itemvalue="Python.oopsrelation" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580120617244</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="OOPS CONCEPTS">
+      <created>1580230588886</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580230588886</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -483,7 +496,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="3" sideWeight="0.49925596" visible="true" weight="0.30335367" />
+      <window_info active="true" anchor="right" id="Run" order="3" sideWeight="0.49925596" visible="true" weight="0.35060975" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -492,7 +505,8 @@
     <MESSAGE value="new discount file" />
     <MESSAGE value="new discount file with functions" />
     <MESSAGE value="insertion sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="insertion sort" />
+    <MESSAGE value="OOPS CONCEPTS" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPS CONCEPTS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -751,31 +765,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/candy.py">
+    <entry file="file://$PROJECT_DIR$/oops4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="475">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oops2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oops4.py">
+    <entry file="file://$PROJECT_DIR$/jjjj.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="340">
+          <caret line="37" column="11" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oopsrelation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="52" column="14" lean-forward="true" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oopsrelation2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -786,10 +831,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oops3.py">
+    <entry file="file://$PROJECT_DIR$/linkedlist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="492">
+          <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlistImplementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="98" column="38" lean-forward="true" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
         </state>
       </provider>
     </entry>
