@@ -92,7 +92,10 @@ package3=Packages("Silver",800,3.5,"1 Year",[
                 )
 
 
-package=[package1,package2,package3]
+package=[package1,package2,
+
+
+    ]
 
 print(package)
 
