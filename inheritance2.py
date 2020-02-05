@@ -10,8 +10,6 @@ class A:
     def show(self):
         print(">> a is:", A.a)
         # print(">> b is:", self.b)
-
-
 class B:
 
     x = 10
@@ -24,10 +22,8 @@ class B:
         print(">> x is:", B.x)
         print(">> y is:", self.y)
 
-
 class C(A, B):
     pass
-
 
 cRef = C(10)
 print(cRef.__dict__)

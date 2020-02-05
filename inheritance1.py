@@ -5,7 +5,7 @@ class CA:
 
 # If you re-define previous function again, it will be deleted
 
-    def __init_(self,num):
+    def __init__(self,num):
         print("second object of CA created and the number is:",num)
 
 # cRef=CA() error
