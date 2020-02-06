@@ -4,24 +4,27 @@
     <bookmark url="file://$PROJECT_DIR$/discount2.py" description="amount = int(input(&quot;Enter the amount:&quot;))&#10;code=inpu..." line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b97789d-b22d-423d-a2b7-c3fb2e55c542" name="Default Changelist" comment="">
+    <list default="true" id="8b97789d-b22d-423d-a2b7-c3fb2e55c542" name="Default Changelist" comment="Stack Implementation of LinkedList">
       <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance2A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance2B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session16file(ride).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session16file2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session16file2A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session16stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session16program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session17(data to objects).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session17DEserialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session17db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session18db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session9Rec(max).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesson17file(order).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/candy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cyclicRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/cyclicRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance1.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance2.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance2A.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance2A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance2B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance(SQ).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insertionwithrecursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/insertionwithrecursion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recursion2.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/session1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/session9.py" beforeDir="false" afterPath="$PROJECT_DIR$/session9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session16file(ride).py" beforeDir="false" afterPath="$PROJECT_DIR$/session16file(ride).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session16file2A.py" beforeDir="false" afterPath="$PROJECT_DIR$/session16file2A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session16queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/session16queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session9.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,55 +35,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linkedlist2.py">
+        <entry file="file://$PROJECT_DIR$/session18db.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linkedlistImplementation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/session16file2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/session16file2A.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="323">
+              <caret line="60" column="51" lean-forward="true" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/session16stack.py">
+        <entry file="file://$PROJECT_DIR$/session17(data to objects).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="102" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="340">
+              <caret line="103" column="17" lean-forward="true" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linkedlist.py">
+        <entry file="file://$PROJECT_DIR$/sesson17file(order).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="77" selection-end-column="23" />
+            <state relative-caret-position="526">
+              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -109,25 +85,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/multivalue.py" />
-        <option value="$PROJECT_DIR$/venv/session6.py" />
-        <option value="$PROJECT_DIR$/functions.py" />
-        <option value="$PROJECT_DIR$/show.py" />
-        <option value="$PROJECT_DIR$/session 7.py" />
-        <option value="$PROJECT_DIR$/session7A.py" />
-        <option value="$PROJECT_DIR$/session8B.py" />
-        <option value="$PROJECT_DIR$/session8count.py" />
-        <option value="$PROJECT_DIR$/stringformatting.py" />
-        <option value="$PROJECT_DIR$/functions1.py" />
-        <option value="$PROJECT_DIR$/session8split.py" />
-        <option value="$PROJECT_DIR$/session7list.py" />
         <option value="$PROJECT_DIR$/fnmax.html" />
         <option value="$PROJECT_DIR$/session7B.py" />
         <option value="$PROJECT_DIR$/recursion.py" />
         <option value="$PROJECT_DIR$/fnmax.py" />
-        <option value="$PROJECT_DIR$/insertionwithrecursion.py" />
-        <option value="$PROJECT_DIR$/recursion2.py" />
-        <option value="$PROJECT_DIR$/session9.py" />
         <option value="$PROJECT_DIR$/oops.py" />
         <option value="$PROJECT_DIR$/oops2.py" />
         <option value="$PROJECT_DIR$/oops4.py" />
@@ -152,14 +113,29 @@
         <option value="$PROJECT_DIR$/inheritance2.py" />
         <option value="$PROJECT_DIR$/inheritance1.py" />
         <option value="$PROJECT_DIR$/inheritance2.1.py" />
-        <option value="$PROJECT_DIR$/inheritance2A.py" />
         <option value="$PROJECT_DIR$/data.csv" />
         <option value="$PROJECT_DIR$/file.py" />
         <option value="$PROJECT_DIR$/file2.py" />
         <option value="$PROJECT_DIR$/session16file.py" />
         <option value="$PROJECT_DIR$/session16file2.py" />
-        <option value="$PROJECT_DIR$/session16file2A.py" />
         <option value="$PROJECT_DIR$/session16stack.py" />
+        <option value="$PROJECT_DIR$/session16queue.py" />
+        <option value="$PROJECT_DIR$/recursion2.py" />
+        <option value="$PROJECT_DIR$/session9.py" />
+        <option value="$PROJECT_DIR$/session9Rec(max).py" />
+        <option value="$PROJECT_DIR$/insertionwithrecursion.py" />
+        <option value="$PROJECT_DIR$/session17DEserialization.py" />
+        <option value="$PROJECT_DIR$/pycj.py" />
+        <option value="$PROJECT_DIR$/session16program.py" />
+        <option value="$PROJECT_DIR$/Inheritance(SQ).py" />
+        <option value="$PROJECT_DIR$/session16file2A.py" />
+        <option value="$PROJECT_DIR$/inheritance2A.py" />
+        <option value="$PROJECT_DIR$/session17db.py" />
+        <option value="$PROJECT_DIR$/session18db.py" />
+        <option value="$PROJECT_DIR$/rides1.csv" />
+        <option value="$PROJECT_DIR$/session16file(ride).py" />
+        <option value="$PROJECT_DIR$/sesson17file(order).py" />
+        <option value="$PROJECT_DIR$/session17(data to objects).py" />
       </list>
     </option>
   </component>
@@ -211,7 +187,7 @@
           <expand>
             <path>
               <item name="PythonTutorial" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\win\PycharmProjects\PythonTutorial" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -222,7 +198,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,8 +212,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.session16stack">
-    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.session17(data to objects)">
+    <configuration name="Inheritance(SQ)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,7 +225,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance(SQ).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="session16file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="session16file(ride)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +267,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\win\PycharmProjects\PythonTutorial\session16file(ride).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session16file(ride).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="session16file2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="session16program" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,7 +288,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session16file2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session16program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="session16file2A" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="session17(data to objects)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -333,7 +309,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session16file2A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session17(data to objects).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="session16stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sesson17file(order)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,7 +330,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session16stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sesson17file(order).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.session16stack" />
-        <item itemvalue="Python.session16file2A" />
-        <item itemvalue="Python.session16file2" />
-        <item itemvalue="Python.session16file" />
-        <item itemvalue="Python.file" />
+        <item itemvalue="Python.session17(data to objects)" />
+        <item itemvalue="Python.sesson17file(order)" />
+        <item itemvalue="Python.session16file(ride)" />
+        <item itemvalue="Python.session16program" />
+        <item itemvalue="Python.Inheritance(SQ)" />
       </list>
     </recent_temporary>
   </component>
@@ -475,14 +451,54 @@
       <option name="project" value="LOCAL" />
       <updated>1580670538821</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="File Handling">
+      <created>1580875282921</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580875282921</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Inheritance">
+      <created>1580875339305</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580875339305</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Queue Implementation of LinkedList">
+      <created>1580876219913</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580876219913</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10514372" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09984872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39770868" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50074404" side_tool="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Run" order="3" sideWeight="0.49925596" visible="true" weight="0.40620273" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10514372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -493,13 +509,13 @@
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50074404" side_tool="true" visible="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50074404" side_tool="true" weight="0.32733223" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="3" sideWeight="0.49925596" visible="true" weight="0.44024205" />
-    </layout>
+      <window_info anchor="right" id="Run" order="3" sideWeight="0.49925596" weight="0.62178516" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code applied" />
@@ -509,8 +525,10 @@
     <MESSAGE value="insertion sort" />
     <MESSAGE value="OOPS CONCEPTS" />
     <MESSAGE value="Linked List Implementation" />
+    <MESSAGE value="File Handling" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="Queue Implementation of LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue Implementation of LinkedList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,173 +552,45 @@
           <line>7</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/session9.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/session9.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/session9.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fnmax.py">
+    <entry file="file://$PROJECT_DIR$/inheritance1C.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="299">
+          <caret line="39" column="69" lean-forward="true" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/session8count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stringformatting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/session6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insertionwithrecursion.py">
+    <entry file="file://$PROJECT_DIR$/data.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multivalue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/discount3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resultEven.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/show.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/session8split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/session7A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recursion2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops4.py">
+    <entry file="file://$PROJECT_DIR$/linkedlist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" />
+          <caret lean-forward="true" selection-end-line="77" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance2.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jjjj.py" />
-    <entry file="file://$PROJECT_DIR$/oopsrelation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops5.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
-          <caret line="52" column="14" lean-forward="true" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops3.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oopsrelation2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -711,34 +601,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cyclicRotation.py">
+    <entry file="file://$PROJECT_DIR$/oops3.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/candy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="492">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sort.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/session9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.py">
+    <entry file="file://$PROJECT_DIR$/recursion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+        <state relative-caret-position="204">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursion2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insertionwithrecursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session9Rec(max).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oopsrelation2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session17DEserialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="96" column="60" lean-forward="true" selection-start-line="96" selection-start-column="60" selection-end-line="96" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycj.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlistImplementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" lean-forward="true" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session16queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="61" column="38" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="61" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oopsrelation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="82" column="3" lean-forward="true" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discount3.2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discount3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -749,116 +736,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance1A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-865523677/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="731" column="6" selection-start-line="731" selection-start-column="6" selection-end-line="731" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance1B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance1C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="39" column="69" lean-forward="true" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance2.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance2A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.csv">
+    <entry file="file://$PROJECT_DIR$/show.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/order.csv">
+    <entry file="file://$PROJECT_DIR$/stringformatting.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/orders.csv">
+    <entry file="file://$PROJECT_DIR$/session8count.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rides.csv">
+    <entry file="file://$PROJECT_DIR$/session8B.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/session16file(ride).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="109" column="18" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inheritance2B.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-865523677/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session17db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="71" column="118" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session16stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="96" column="22" lean-forward="true" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session7list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session 7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance2A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance(SQ).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="91" column="37" lean-forward="true" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/session16file2A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linkedlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="77" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linkedlist2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linkedlistImplementation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="101" />
+        <state relative-caret-position="526">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
@@ -869,10 +810,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/session16stack.py">
+    <entry file="file://$PROJECT_DIR$/rides1.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orders.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rides.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session16file(ride).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session16program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session18db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="60" column="51" lean-forward="true" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesson17file(order).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session17(data to objects).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="103" column="17" lean-forward="true" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
         </state>
       </provider>
     </entry>

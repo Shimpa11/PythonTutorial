@@ -17,9 +17,9 @@ class Burger:
     def showBurger(self):
         print("BURGER:{}!!!{}!!{}".format(self.type,self.price,self.quantity))
 
-burger1=Burger("McAlooTikki",150,"1")
+burger1=Burger("Cheese burger",150,"1")
 burger2=Burger("McBurger",200,"2")
-burger3=Burger("NoodlesBurger",100,"1")
+# burger3=Burger("NoodlesBurger",100,"1")
 # print()
 # burger1.showBurger()
 # burger2.showBurger()
@@ -35,11 +35,9 @@ def addBurgers(burger):
 
 burger1.quantity = 1
 burger2.quantity = 2
-burger3.quantity = 1
 
 addBurgers(burger1)
 addBurgers(burger2)
-addBurgers(burger3)
 totalPrice = 0
 for burger in cart:
     burger.showBurger()
@@ -51,12 +49,11 @@ print("Number of burgers",totalBurgers)
 
 
 class PrimeMeal(Burger):
-    mealCombo=150
+    mealCombo=200
     def upgradeToPrime(self):
         self.meal=True
         self.coke=True
         self.fries=True
-
 
     def showPrimeMeal(self):
         self.showBurger()
@@ -77,7 +74,9 @@ PrimeMeal.upgradeToPrime(burger1)
 
 print(burger1.__dict__)
 PrimeMeal.showPrimeMeal(burger1)
-print("now the total price is",totalPrice)
+
+print("now the total price is",totalPrice+PrimeMeal.mealCombo)
+
 
 
 #
