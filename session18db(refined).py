@@ -89,10 +89,7 @@ while repeat == "yes":
     print("5.View Customers by ID")
     print("6.View Customers by phone")
 
-
-
     choice=int(input("Enter your choice:"))
-
     if choice==1:
             customer=Customer(1)
             customer.showCustomerDetails()
@@ -165,10 +162,6 @@ while repeat == "yes":
 
 
 
-
-
-
-    # usage = input("Would You Like Use Software Further? (yes/no): ")
 
 
 
