@@ -63,8 +63,7 @@ class Queue:
 
     # def getTotalPrice(self):
     #     totalPrice=0
-    #     totalItems=0
-    #     totalProducts=0
++9    #     totalProducts=0
     #
     #     temp=self.head
     #     while temp.nextProduct!=self.head:
