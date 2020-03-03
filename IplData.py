@@ -101,7 +101,7 @@ if __name__ == "__main__":
 
 table=pd.read_csv("IPL-TEAMS-DATA.csv",header=None)
 # df=pd.DataFrame(table)
-print(table)
+# print(table)
 
 # n=table.iloc[0:,1]
 # print(table.iloc[0:,1]
@@ -140,8 +140,8 @@ df3=pd.DataFrame(d1)
 
 
 # print(d.iloc[:, 3])
-t=list(d1.iloc[:,3])
-t1=list(d1.iloc[:,0])
+t=(d1.iloc[:,3])
+t1=(d1.iloc[:,0])
 # print(len(t1))
 # print(len(t))
 g=list(d.iloc[:,3])
@@ -151,12 +151,12 @@ h=list(d.iloc[:,0])
 
 # print(h)
 # print(t)
-barwidth=0.5
+
 #
-x_indexes=np.arange(len(h))
-width=0.5
-plt.bar(h,g,width=0.25,color="g",label="Mumbai Indians")
-plt.bar(t1,t,width=0.5,color="m",label="Sunrisers Hyderabad")
+# x_indexes=np.arange(len(h))
+
+plt.bar(h,g,label="Mumbai Indians")
+plt.bar(t1+0.85,t,color="m",label="Sunrisers Hyderabad")
 
 
 # plt.xticks(ticks=x_indexes,labels=h)
