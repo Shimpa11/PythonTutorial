@@ -27,3 +27,8 @@ for student in students:
 # membership test
 print("Jam" in students)
 print("Tom" in students)
+
+
+s="hello hello  large"
+print(":".join("python"))
+print(s.split("o"))

@@ -19,27 +19,34 @@ class HashTable:
 
         idx=int(hashlib.sha256(word.encode("utf-8")).hexdigest(),16)%self.capacity
         if self.table[idx]==  None:
-        # self.table[idx]=word
 
             self.size += 1
-        #
-        # else:
-        #     print("collision")
+
+        else:
+            print("collision")
         self.table[idx].append(word)
-        print(">> Data {} Inserted at Index {}".format(word, idx))
-        print(self.size)
+        # print(">> Data {} Inserted at Index {}".format(word, idx))
 
     # def find(self,word):
     #     idx = int(hashlib.sha256(word.encode("utf-8")).hexdigest(), 16) % self.capacity
     #     if self.table[idx]==word:
     #
-    # def iterate(self,word):
-    #  for i in range(self.capacity):
-    #     if len(self.table[i]) != 0:
-    #         print(">> Data in BUCKET", i)
-    #
-    #         for data in self.table[i]:
-    #             print(data)
+    def iterate(self):
+     for i in range(self.capacity):
+        if len(self.table[i]) != 0:
+            print(">> Data in BUCKET", i)
+
+            for data in self.table[i]:
+                print(data)
+            print("---------------------------------")
+    def count(self,word):
+        self.frequency=0
+        for i in range(self.capacity):
+             for data in self.table[i]:
+                if self.table[i]==word:
+                    self.frequency=self.frequency+1
+        print("the frequency is :",self.frequency)
+
 
 
 # class Review:
@@ -101,6 +108,11 @@ for r1 in rev5:
     hTable.put(r1)
 
 print(hTable.table)
+hTable.iterate()
+
+for r in rev2:
+    if r=="institution":
+         hTable.count(r)
 
 
 

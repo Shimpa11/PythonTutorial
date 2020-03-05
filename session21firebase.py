@@ -1,27 +1,25 @@
-
 """
-Install Firebase admin library
-pip install firebase-admin
-for upgrade pip
-python -mpip install -U --force-reinstall pip
-
-go to firebase.google .com
-create  a new project
-
-3. create Database inyour account
-
-clloud firestore
-
-test mode
-
+1. Install Firebase Admin Library
+   pip install firebase-admin
+   If facing errors, try upgrading your pip
+   python -m pip install -U --force-reinstall pip
+2. Go to firebase.google.com
+   Create a New Project (edit project id of your choice)
+   Use Locations as India
+3. Create DataBase in your Account
+    Create Firestore in Test Mode
+    Location -> Asia-South1 [But it can be any of your choice]
+    Explore DataBase with collections and documents structure :)
+4. Go To Settings
+    Project Settings > Service Accounts
+    Select Python
+    Generate Private Key (It shall download a json file)
+5. Copy this downloaded json file in your Pycharm Project and rename it to anyname.json
+6. Copy the Snippet and paste it in your program
 """
-
 #
 # import firebase_admin
 # print("This is Awesome")
-
-
-
 
 import firebase_admin
 from firebase_admin import credentials
@@ -40,24 +38,65 @@ class Customer:
             self.phone = input("Enter the customer phone: ")
             self.email = input("Enter the customer email: ")
 
-
-
     def showCustomerDetails(self):
         print("{} | {} | {} ".format(self.name, self.phone, self.email))
 
 #APPLICATION
 def main():
+    # db is reference to firestore database
+
+    db = firestore.client()
+    docs=db.collection("customers").stream()
+    for doc in docs:
+         print(u'{}=> {}'.format(doc.id,doc.to_dict()))
+
+
+
+"""
+
     customer=Customer()
     customer.showCustomerDetails()
     customerData=customer.__dict__
     print(customerData,type(customerData))
 
-# db is reference to firestore database
 
 
-    db=firestore.client()
+
+    #  set-> insert and update
     db.collection("customers").document(customer.email).set(customerData)
     print('CUSTOMER SAVED')
+"""
+   
+    # db.collection("customers").document(customer.email).set(customerData)
+
+
+"""
+    
+#    get() to get single or multiple documents
+
+    docRef=db.collection("customers").document("sam@example.com").get()
+    docDict=docRef.to_dict()
+    print(docDict)
+
+    cRef=Customer()
+    cRef.name=docDict["name"]
+    cRef.phone=docDict["phone"]
+    cRef.email=docDict["email"]
+    cRef.showCustomerDetails()
+    """
+
+"""
+
+# delete to delete a document
+    db.collection("customers").document("sam@example.com").delete()
+    print("sam@example.com deleted")
+    """
+
+# MULTIPLE DOCUMENTS
+#     docs=db.collection("customers").get()
+#      docs=db.collection("customers").stream()
+#      for doc in docs:
+#          print(u'{}=> {}'.format(doc.id,doc.to_dict()))
 
 
 if __name__ == "__main__":

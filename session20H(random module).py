@@ -1,3 +1,14 @@
+#  house no in diff sector
+#
+###
+"""
+bank account
+IMEI , sim no,phone no
+car number
+
+"""
+
+
 import random
 
 #random number in range 0-10000

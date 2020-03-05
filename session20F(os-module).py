@@ -25,10 +25,44 @@ if os.path.isdir(pathD)==False:
 # for file in allFiles:
 #     print(file)
 
-files1 = os.walk("/Users/win/Downloads")
-print(files1)
-allFiles = list(files1)
-for root,dirs,files in files1:
-    for file in files:
-         if file.endswith('.jpg'):
-            print(os.path.join(root,file))
+files = os.listdir("D:/Angeline")
+print(files)
+allFiles = list(files)
+image = []
+iCount = 0
+
+dCount=0
+document=[]
+
+
+fExtn=input("Enter file extension: ")
+for file in allFiles:
+    if fExtn=="jpg":
+        image.append(file.join("D:/Angeline", + '.',+ fExtn))
+        iCount+=1
+# print(image)
+        print(iCount)
+
+    elif fExtn =="pdf":
+        document.append(file)
+        dCount+=1
+        # print(document)
+        print(dCount)
+
+    # elif file.endswith('.mp3'):
+    #     pass
+
+    else:
+        pass
+
+
+
+
+
+            #
+            # elif file.endswith('.mp4'):
+            #     print(file)
+
+
+
+

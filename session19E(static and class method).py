@@ -72,8 +72,8 @@ class Point:
 # print(point.__dict__)
 
 
-points=Point.createPoints()
-print(points)
+# points=Point.createPoints()
+# print(points)
 # points[0].showPoint()
 # points[1].showPoint()
 #
@@ -101,7 +101,7 @@ pRef2=Point()
 pRef1.showPoint()
 pRef2.showPoint()
 
-# result=pRef1.calculateDistance(pRef1,pRef2)
+result=pRef1.calculateDistance(pRef1,pRef2)
 # result=pRef1.calculateDistance(pRef2)
 # result=Point.calculateDistance(pRef1,pRef2)
 # print("the distance is:",result)

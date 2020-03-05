@@ -42,12 +42,18 @@ print(file.tell())  #25
 #         print(line)
 #         functions += 1
 classes = 0
-
+functions=0
 for line in lines:
      if "class" in line:
         print(line)
         classes += 1
 data=line.split(" ")
+functions=0
+if "def" in line:
+        functions+=1
+print("No of functions" ,functions)
+
+
 print(data)
 
 
