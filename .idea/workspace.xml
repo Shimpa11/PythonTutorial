@@ -4,69 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/discount2.py" description="amount = int(input(&quot;Enter the amount:&quot;))&#10;code=inpu..." line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b97789d-b22d-423d-a2b7-c3fb2e55c542" name="Default Changelist" comment="Pandas df and matplotlib">
-      <change afterPath="$PROJECT_DIR$/Garbagecollector file(old).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session24thrd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cityTemps.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricketData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricketData2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileexplorer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/garbageCollector db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gc(file).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gc1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iplDatarep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leapyear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session16program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session21(firebase180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session23demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session23pars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session23t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session24(reg exp).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session24Aobjcls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session24Bpbjcls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session24ojbcls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session24regexp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session24thrd2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session25Any.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session25B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session25C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session25D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session25Queen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session26 tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session27F np with file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session27G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session29A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session29B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session29C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session29Dws.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session29E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session29E2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session29F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wsflip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/candy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyclicRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/cyclicRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insertionwithrecursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/insertionwithrecursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion2.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/session 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session16file(ride).py" beforeDir="false" afterPath="$PROJECT_DIR$/session16file(ride).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session16file2A.py" beforeDir="false" afterPath="$PROJECT_DIR$/session16file2A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session19E(static and class method).py" beforeDir="false" afterPath="$PROJECT_DIR$/session19E(static and class method).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session20F(os-module).py" beforeDir="false" afterPath="$PROJECT_DIR$/session20F(os-module).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session20H(random module).py" beforeDir="false" afterPath="$PROJECT_DIR$/session20H(random module).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session21firebase.py" beforeDir="false" afterPath="$PROJECT_DIR$/session21firebase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordfreq.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordfreq.py" afterDir="false" />
-    </list>
+    <list default="true" id="8b97789d-b22d-423d-a2b7-c3fb2e55c542" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/session35.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+            <state relative-caret-position="243">
+              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -639,7 +577,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583252163310</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Pandas-IV -Joins">
+      <created>1583387705809</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1583387705809</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Pandas-IV -Joins">
+      <created>1583388166286</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1583388166286</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -707,7 +659,8 @@
     <MESSAGE value="IPL data" />
     <MESSAGE value="Pandas df and matplotlib" />
     <MESSAGE value="Hashing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashing" />
+    <MESSAGE value="Pandas-IV -Joins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pandas-IV -Joins" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1098,8 +1051,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/session35.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        <state relative-caret-position="243">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
         </state>
       </provider>
     </entry>
