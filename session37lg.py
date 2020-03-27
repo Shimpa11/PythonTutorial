@@ -110,6 +110,7 @@ class LinearRegressionModel:
         self.b1 = np.sum(valueX*valueY) / np.sum(squareX)
         print(">> b1 is:", self.b1)
         """
+    
 
     def fit(self, X, Y):
         self.X = X
