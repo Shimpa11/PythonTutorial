@@ -2,7 +2,6 @@
 # PreRequisite : Please change image into gray scale and into numpy Array. Create your own labels
 
 
-
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_sample_images
 dataset = load_sample_images()
