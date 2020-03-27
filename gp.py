@@ -12,6 +12,6 @@ team=data1[1]
 wins=data1[3]
 
 plt.bar(team,wins,"m")
-plt.style.use(['dark_background'])
+# plt.style.use(['dark_background'])
 plt.xticks(rotation=90)
 plt.show()
