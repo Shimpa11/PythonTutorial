@@ -112,3 +112,8 @@ print(confM)
 # print(confM)
 
 
+dfConfMatrix = pd.DataFrame(confM)
+print(dfConfMatrix)
+sns.heatmap(dfConfMatrix)
+plt.show()
+
