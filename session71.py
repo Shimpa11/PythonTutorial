@@ -3,6 +3,13 @@
     PS: No ML or Deep Learning Associated
 """
 
+
+
+# Chat is a Class which will handle Chat-Bot logic for us !
+# reflections is a dictionary of key and value pairs, For a key as input we have an outcome as value
+# print(reflections)
+# print(reflections['i was'])
+
 from nltk.chat.util import Chat,reflections
 
 conversation=[
