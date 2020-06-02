@@ -1,0 +1,69 @@
+body
+{
+background-color:#696969;
+background-image:url("/static/images/bg.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+
+background-blend-mode: lighten;
+}
+
+h2,h3{
+color:white;
+}
+
+.container{
+font-family: georgia,garamond,serif;
+/*background-image:url('/static/images/bg.jpg');
+/*background-size: cover;
+/*background-repeat:no-repeat;
+background-blend-mode: lighten;
+}*/
+
+ .button{
+background-color:#C0C0C0;
+ /* silver */
+  border: none;
+  border-radius:15px;
+  color: black;
+  padding: 10px 10px;
+  margin:10px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+
+
+}
+
+.button
+{border-radius: 15px;
+width: 200px;
+
+}
+
+.col-4 {
+margin:100px;
+  margin-left: auto;
+  margin-right: auto;
+  float:left;
+  display:block;
+
+
+
+  }
+
+
+.col-4 img{
+margin:100px;
+  margin-left: auto;
+  margin-right: auto;
+  vetical-align:middle;
+
+  }
+
+
+.button:hover{
+background-color: #3cb371; /* Green */
+color: white;
+}

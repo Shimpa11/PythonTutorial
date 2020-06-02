@@ -1,0 +1,57 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<style>
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container .btn:hover {
+    background-color: black;
+}
+</style>
+</head>
+<body>
+<center>
+  <h2>Train Your Image</h2>
+
+
+<div class="container">
+  <img alt="train" src="static/images/trainmodel1.jpg" style="width:100%">
+    <form action="/upload" method="post">
+  <button class="btn">Train your image</button>
+    </form>
+</div>
+</center>
+
+
+</body>
+
+
+</html>

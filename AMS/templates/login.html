@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>iRegister</title>
+     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+   <link href="/static/css/loginStyle.css" rel="stylesheet" type="text/css">
+    <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" rel="stylesheet">
+</head>
+<body style="background-color:#696969; ">
+
+
+<script crossorigin="anonymous" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+
+
+<header>
+
+ <h1 style="color:white;text-align:center;">iREGISTER</h1>
+    <p style="text-align:center; font-size:30px;"><i class="fa fa-users" style="font-size:36px;color:black"></i><b>Welcome to Attendance Mangement System</b><i class="fa fa-users" style="font-size:36px;color:black"></i></p>
+
+</header>
+
+
+<nav class="navbar navbar-expand-lg navbar-light navbar-light" style="background-color: black; ">
+
+  <a class="navbar-brand" href="#" style="color:white;">HOME</a>
+  <button aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarNavAltMarkup" data-toggle="collapse" type="button">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+<!--      <a class="nav-item nav-link active" href="#">HOME <span class="sr-only">(current)</span></a>-->
+      <a class="nav-item nav-link" href="#" style="color:white;">GENERATE REPORTS </a>
+      <a class="nav-item nav-link" href="#" style="color:white;">ABOUT US</a>
+        <a class="nav-item nav-link" href="#" style="color:white;">CONTACT US</a>
+
+    </div>
+  </div>
+
+</nav>
+
+
+
+
+<!--<div class="col-sm ">-->
+<!--     <img src="/static/images/education.png" class="rounded float-left" alt="student" width="250px" >-->
+
+<!--</div>-->
+<!--        <h2 style="font-family:Georgia, serif; text-align:center;">Registration</h2><br><br>-->
+<!--        <h3 style="font-family:Georgia, serif;">Dear User, Please Login Below</h3>-->
+
+<div class="container">
+        <div class="row justify-content-center" style="border:12px; height:50%">
+            <div class="col-4" >
+
+                <button class="button"onclick="window.location.href='http://127.0.0.1:5000/teacher_login'" style="background-color:#C0C0C0; color:black;width:300px;" > <i class="material-icons">supervisor_account</i>Teacher Login</button>
+             <img alt="student" class="rounded float-center" height="150px"  src="/static/images/education.png" width="150px" >
+            </div>
+
+            <div class="col-4">
+
+
+                <button class="button" onclick="window.location.href='http://127.0.0.1:5000/student_login'" style="background-color:#C0C0C0; color:black;width:300px;"><i class="material-icons">school</i>Student Login</button>
+              <img alt="student" class="rounded float-center" height="150px" src="/static/images/avatar.png" width="150px" >
+
+            </div>
+
+            <div class="col-4" >
+
+    <button class="button"  onclick="window.location.href='http://127.0.0.1:5000/parent_login'" style="background-color:#C0C0C0; color:black;width:300px;" ><i class="material-icons">supervisor_account</i>Parent Login</button>
+                <img alt="student" class="rounded float-center" height="150px"  src="/static/images/parent.png" width="150px">
+            </div>
+
+        </div>
+
+
+<!--<div class="col-sm">-->
+<!--     <img src="/static/images/avatar.png" class="rounded float-right" alt="student" width="250px" >-->
+<!--    </div>-->
+
+</div>
+
+
+</body>
+</html>

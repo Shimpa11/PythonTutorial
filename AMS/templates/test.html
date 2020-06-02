@@ -1,0 +1,44 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Title</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<form action="testing" method="post">-->
+<!--    <h1>TESTING</h1>-->
+<!--&lt;!&ndash;    <input type="file">&ndash;&gt;-->
+<!--    <img src="{{url_for('testing')}}">-->
+<!--&lt;!&ndash;    <button type="submit" name="submit" value="Submit"> Submit</button>&ndash;&gt;-->
+
+<!--</form>.-->
+
+<!--</body>-->
+<!--</html>-->
+
+
+<html>
+  <head>
+    <title>Mod1</title>
+    <style>
+	img {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	width: 35%
+	}
+    </style>
+  </head>
+  <body>
+    <h1 align="center">Video Streaming Demonstration</h1>
+<!--    <img id="bg" class="center" src="{{ url_for( '.testing', endpoint='static') }}">-->
+ <form action="{{ url_for( 'static', 'dataset') }}" method="post">
+<!--     url_for('static', filename='style.css')-->
+    <input type="file">
+
+<!--    <a href="{{ url_for( 'dataset') }}">train</a>-->
+   <button name="submit" type="submit" value="Submit">Submit</button>
+
+
+  </body>
+</html>
