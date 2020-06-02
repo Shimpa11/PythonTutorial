@@ -1,6 +1,7 @@
 # working on covid 19 dataset
 
 import pandas as pd
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestRegressor
@@ -16,11 +17,13 @@ print(indiaDF)
 X=indiaDF['Date'].values
 cases=indiaDF['Confirmed'].values
 
-print("data for X:",X)
-print("Data for Y:",cases)
-# plt.plot(X,Y)
+print(type(cases))
+# print("data for X:",X)
+# print("Data for Y:",cases)
+# plt.plot(X,cases)
 # plt.xlabel("Date")
 # plt.ylabel("Confirmed cases")
+# plt.xticks(rotation=90)
 # plt.grid(True)
 # plt.show()
 
@@ -41,7 +44,7 @@ for date in X:
     print(date)
     print(pd.Period(date,freq='D').dayofyear)
     days.append(pd.Period(date,freq='D').dayofyear)
-days=np.array(days)
+# days=np.array(days)
 
 print(days)
 
@@ -60,7 +63,7 @@ y_pred=model.predict(x_test)
 print(x_test)
 print(y_pred)
 print("=======================")
-futurePredictionsDays=np.array([12,24,48,61,96,120])
+futurePredictionsDays=np.array([24,48,65,83,85])
 futurePredictionsDays=futurePredictionsDays[:,np.newaxis]
 
 futureConfirmedCasesPredictions=model.predict(futurePredictionsDays)
@@ -69,3 +72,7 @@ print(futureConfirmedCasesPredictions)
 # Conclusion : Predictions are not accurate.
 # Since as per our dataset, we do have exponential behaviour in our data.
 # So we need to do some more of pre-processing
+
+
+plt.bar(days,cases)
+plt.show()

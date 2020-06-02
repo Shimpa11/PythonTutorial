@@ -19,7 +19,7 @@ app=Flask(__name__)
 # @app.route('/hello')
 # routing to particular func through url
 
-@app.route('/hello')
+@app.route('/')
 def helloWorld():
    return 'Hello World'
 

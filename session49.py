@@ -1,4 +1,7 @@
 """Apriori Algorithm-> a data mining technique
+process of identifying an assocaition between the items
+assumes that any subset of a frequent itemset must be frequent
+
 Dataset
 TID  Cover   Guard  PowerBank Charger
 1       1       1       1       1
@@ -35,7 +38,7 @@ if lift(x=>y)=1, no correlation, dont consider
 4. Conviction
 conv(x=>y)=(1-support(y))/(1-confidence(x=>y)
 
-conviction({cover, guard}=>{powerbank})=1-support(powerbank)/1-confidence(cover,gaurd)
+conviction({cover, guard}=>{powerbank})=1-support(powerbank)/1-confidence(cover,gaurd)-> powerbank
 (1-4/6)/1-0.66=1
 
 if conv(x=>y)=1 ,    x has no realtion with y
@@ -72,19 +75,20 @@ Charger           5
 
 """
 import  pandas as pd
+from  apyori import apriori
 df=pd.read_csv("transactions.csv",header=None)
-print(df)
+# print(df)
 
-print(df.shape)
+# print(df.shape)
 
-# convert df as list of lists
+# # convert df as list of lists
 records=[]
 for i in range (df.shape[0]):
     # print(i)
-    records.append(str(df.values[i,j])  for j in range(df.shape[1]))
+    records.append([str(df.values[i,j])  for j in range(df.shape[1])])
 
-# apyori
-# list of lists
+# # apyori
+# # list of lists
 print(records)
-associationRules=aprior(records,min_support=0.50,min_confidence=0.7,min_lift=1,min_length=2)
+associationRules = apriori(records, min_support=0.50,  min_confidence=0.7, min_lift=1, min_length=2)
 print(list(associationRules))

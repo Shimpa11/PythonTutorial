@@ -4,6 +4,10 @@ from sklearn.feature_selection import chi2
 X,Y=load_iris(return_X_y=True)
 
 print(X.shape)
+print(X)
+
 kBest=SelectKBest(chi2,k=2)
+
 X1=kBest.fit_transform(X,Y)
 print(X1.shape)
+print(X1)

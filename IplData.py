@@ -156,12 +156,12 @@ h=list(d.iloc[:,0])
 # x_indexes=np.arange(len(h))
 
 plt.bar(h,g,label="Mumbai Indians")
-plt.bar(t1+0.85,t,color="m",label="Sunrisers Hyderabad")
+# plt.bar(t1+0.85,t,color="m",label="Sunrisers Hyderabad")
 
-
+#
 # plt.xticks(ticks=x_indexes,labels=h)
 # plt.xlabel("Years")
 # plt.ylabel("No. of matches won")
 # plt.title("Team:Mumbai Indians")
-plt.legend()
+# plt.legend()
 plt.show()

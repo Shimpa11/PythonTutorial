@@ -1,6 +1,6 @@
 import cv2 as cv
 import pytesseract
-from PIL import Image
+from pil import Image
 # image=cv.imread("quote.jpg",1)
 image=Image.open("images2.png")
 # image=Image.open("images1.jpg")

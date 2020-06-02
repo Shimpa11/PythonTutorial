@@ -9,33 +9,8 @@ We shall remove all features./ attributes, whose variance doesnot meet the thres
 
 eg:We have a datset with features ans we wish to consider 80% of the sample
 
-
-
 SelectKbest
 
-
-
-"""
-"""
-from sklearn.feature_selection import VarianceThreshold
-X=[
-    [0,0,1],
-    [0,0,1],
-    [1,0,0],
-    [1,1,1],
-    [1,0,0],
-    [0,1,0],
-    [0,1,1]
-
-]
-print("X before")
-print(X)
-# Var[X]=p(1-p)-> p is threshold
-reduction=VarianceThreshold(.8*(1-.8))
-X=reduction.fit_transform(X)
-
-print("X after")
-print(X)
 """
 
 

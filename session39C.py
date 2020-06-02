@@ -19,8 +19,8 @@ def detectAndDisplay(frame):
             frame=cv.line(frame,eye_center,(411,305),(255,0,0),2)
     cv.imshow('Capture - Face detection', frame)
 parser = argparse.ArgumentParser(description='Code for Cascade Classifier tutorial.')
-parser.add_argument('--face_cascade', help='Path to face cascade.', default='haarcascade_frontalface_alt.xml')
-parser.add_argument('--eyes_cascade', help='Path to eyes cascade.', default='haarcascade_eye_tree_eyeglasses.xml')
+parser.add_argument('--face_cascade', help='Path to face cascade.', default=r'C:\Users\win\AppData\Local\Programs\Python\Python36\Lib\site-packages\cv2\data\haarcascade_frontalface_alt.xml')
+parser.add_argument('--eyes_cascade', help='Path to eyes cascade.', default=r'C:\Users\win\AppData\Local\Programs\Python\Python36\Lib\site-packages\cv2\data\haarcascade_eye_tree_eyeglasses.xml')
 parser.add_argument('--camera', help='Camera divide number.', type=int, default=0)
 args = parser.parse_args()
 face_cascade_name = args.face_cascade
